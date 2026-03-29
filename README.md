@@ -8,17 +8,18 @@
 
 <div align="center">
 
-```java
-public class Aayush {
+## 👨‍💻 Who Am I?
 
-    String name     = "Aayush Kumar Rathore";
-    String alias    = "AsHLuRk";
-    String college  = "MSIT, New Delhi (B.Tech IT • 2023–2027)";
-    double cgpa     = 8.65;
-    String focus    = "Placement Prep | DSA | Spring Boot | ML";
-    String motto    = "Code it. Break it. Fix it. Ship it. 🚀";
-}
-```
+![Name](https://img.shields.io/badge/Name-Aayush%20Kumar%20Rathore-58a6ff?style=for-the-badge&logoColor=white)
+![Alias](https://img.shields.io/badge/Alias-AsHLuRk-ff6b35?style=for-the-badge&logo=github&logoColor=white)
+![College](https://img.shields.io/badge/MSIT%20Delhi-B.Tech%20IT%20%7C%202023--2027-1f6feb?style=for-the-badge&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.65-2ecc71?style=for-the-badge&logoColor=white)
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍%20New%20Delhi-India-e74c3c?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ecc71?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-DSA%20%2B%20Spring%20Boot%20%2B%20ML-f39c12?style=flat-square)
 
 </div>
 
@@ -26,35 +27,30 @@ public class Aayush {
 
 <div align="center">
 
-### 🌐 Connect With Me
+## ⚡ Quick Facts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kumar-rathore-161b85290/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayush_rathore18/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushkumarrathor367@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk)
+| | |
+|:---:|:---|
+| ☕ | Java is my primary language |
+| 🧩 | Love solving DSA problems on LeetCode |
+| 🤖 | Building ML projects with Python & Streamlit |
+| 🌱 | Currently learning Spring Boot & Microservices |
+| 🏆 | Pull Shark achievement on GitHub |
+| ⚡ | Tech enthusiast — always ready to learn |
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 **B.Tech Information Technology** @ MSIT, New Delhi (2023–2027) | CGPA: **8.65**
-- 💼 Actively preparing for **campus placements** at product-based companies (8+ LPA)
-- 🔥 Currently mastering **DSA in Java** + **Spring Boot** backend development
-- 🤖 Building ML projects with **Python, Scikit-learn & Streamlit**
-- 🌱 Learning: **Microservices | Spring Cloud | JWT Auth | System Design**
-- ⚡ Side hustle: Prospecting **US clients** for web & AI chatbot services
-- 💬 Ask me about: **Java | DSA | Spring Boot | Python ML**
-
----
-
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,6 +61,7 @@ public class Aayush {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,65 +69,56 @@ public class Aayush {
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
-
-### 💰 Split & Settle
-> Group expense splitter with **debt simplification algorithm**
-
-- Smart algorithm minimizes number of transactions
-- Built with **Java + Spring Boot**
-- Clean REST API architecture
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk)
-
-</td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🚂 Train Ticket Booking System
-> CLI-based Java app with full auth & booking flow
 
-- **JWT-style auth** | BCrypt password hashing
-- Jackson JSON serialization for data persistence
-- Fully functional CLI interface
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-App-black?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens)
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk/Ticket-booker)
+> CLI-based ticket booking app with full auth flow
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+✅ BCrypt password hashing  
+✅ Jackson JSON data persistence  
+✅ Complete booking & user management  
 
-### 🏋️ WorkoutIQ – Fatigue Predictor
-> AI-powered workout fatigue detection app
-
-- **Gradient Boosting** ML model
-- Beautiful dark-themed **Streamlit** dashboard
-- Radar charts, probability scores & recovery tips
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk/Ticket-booker)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔥 RoastCode
-> AI-powered code roaster that brutally reviews your code
+### 🌐 HackWeb3
 
-- Gives savage but helpful feedback
-- Built with **JavaScript**
-- Fun twist on code review
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon-Project-ff6b35?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk/RoastCode)
+> Web3 hackathon project exploring blockchain development
+
+✅ TypeScript powered  
+✅ Modern Web3 architecture  
+✅ Collaborative open-source build  
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk/Hackweb3)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -152,18 +140,6 @@ public class Aayush {
 
 ---
 
-## 🏆 LeetCode Journey
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-
-**Problems Solved:** Permutations • Subsets • N-Queens • Combination Sum • Unique Paths • Pascal's Triangle • Linked Lists • Sliding Window & more...
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -174,22 +150,28 @@ public class Aayush {
 
 ---
 
-## 🎯 Current Goals (2025)
-
-```
-[██████████░░░░░░░░░░] DSA in Java        — In Progress 🔥
-[████████░░░░░░░░░░░░] Spring Boot        — Building   ⚙️
-[██████░░░░░░░░░░░░░░] System Design      — Learning   📚
-[████████████░░░░░░░░] Python ML          — Active     🤖
-[████░░░░░░░░░░░░░░░░] Placement Prep     — Targeting  🎯
-```
-
----
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AsHLuRk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/AsHLuRk)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kumar-rathore-161b85290/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayush_rathore18/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushkumarrathor367@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsHLuRk)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AsHLuRk&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -197,10 +179,11 @@ public class Aayush {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsHLuRk&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
-**⭐ Star my repos if you find them useful! | Open to collaborations & opportunities 🤝**
+**⭐ Star my repos if you find them useful! Always open to collaborating 🤝**
 
 </div>
